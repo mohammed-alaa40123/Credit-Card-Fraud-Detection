@@ -1,7 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-A brief description of what this project does and who it's for.
-
+Dataset Link https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## Slideshow
 
 <div style="position: relative; width: 100%; height: 0; padding-top:96px; padding-bottom: 56.25%; overflow: hidden; will-change: transform;">
